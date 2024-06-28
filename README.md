@@ -1,6 +1,4 @@
 
-Memory updated
-Certainly, here is an updated README for your GitHub profile with emojis added:
 
 Hello! 👋 I'm Nahaliel Green (Pablo) 🌟
 Welcome to my GitHub profile! I'm a dedicated and innovative software engineer with a passion for building efficient and scalable software solutions. I'm currently studying at TripleTen, where I am developing a robust foundation in programming, algorithms, and software development principles. 🎓
@@ -33,7 +31,10 @@ Thank you for visiting my portfolio. Feel free to explore my projects and get in
 
 Programming Languages and Skills
 
-![image](https://github.com/NahalielG/NahalielG/assets/166444591/326ad95e-933c-45c4-ae84-cf71c77630c1) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/8e481793-c814-4af5-b41e-f71148332927) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/88d14985-c8b2-4189-a17e-19664bceb4d3) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/ee421252-079c-4d59-a3d1-dd62af267546)
+![image](https://github.com/NahalielG/NahalielG/assets/166444591/326ad95e-933c-45c4-ae84-cf71c77630c1) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/8e481793-c814-4af5-b41e-f71148332927) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/88d14985-c8b2-4189-a17e-19664bceb4d3) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/ee421252-079c-4d59-a3d1-dd62af267546) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/b55b2192-3bb0-421c-9b1f-d0d79b13f3d9) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/2cb06992-478f-4f26-9eb4-c29982da37e1) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/80dd3d9c-3d56-4350-ad17-4530d443246b)
+
+
+
 
 
 
