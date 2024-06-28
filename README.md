@@ -4,11 +4,17 @@ Throughout my academic journey and personal projects, I have honed my skills in 
 
 Here are a few highlights from my portfolio:
 
-[se_project_coffeeshop]: This project showcases my ability and knowledge of BEM,flex layout,all faccets of HTML5 and CSS https://pablobetheplug.github.io/se_project_coffeeshop/.
+[se_project_coffeeshop]: This project showcases my ability and knowledge of BEM,flex layout,all faccets of HTML5 and CSS 
+
+https://nahalielg.github.io/se_project_coffeeshop/
 
 [se_library_landing_page]: This project was mainly to showcase form element,animations, and the use of iframe. This project highlights my expertise in embeding content,special effects, and layout. 
 
+https://nahalielg.github.io/se_library_landing_page/
+
 [se_project_arountheus-main]: This project shows my application of grid layout. This project reflects my skills in responsive design, developing designs for an interface on different devices.
+
+https://nahalielg.github.io/se_project_aroundtheus/
 
 I am passionate about continuously learning and staying up-to-date with the latest industry trends and technologies. My approach to software development is driven by a strong problem-solving mindset and a commitment to delivering high-quality, user-centric solutions.
 
