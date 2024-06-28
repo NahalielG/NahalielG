@@ -25,9 +25,15 @@ In addition to my technical skills, I thrive in collaborative environments and e
 
 Full-Stack Development 🌐
 Artificial Intelligence 🤖
-Software Engineering 👨🏾‍💻 
+Software Engineering 👨🏾‍💻
+
 Let's Connect! 🤝
+
 Thank you for visiting my portfolio. Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work.
 
-![image](https://github.com/NahalielG/NahalielG/assets/166444591/326ad95e-933c-45c4-ae84-cf71c77630c1) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/8e481793-c814-4af5-b41e-f71148332927)
+Programming Languages and Skills
+
+![image](https://github.com/NahalielG/NahalielG/assets/166444591/326ad95e-933c-45c4-ae84-cf71c77630c1) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/8e481793-c814-4af5-b41e-f71148332927) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/88d14985-c8b2-4189-a17e-19664bceb4d3) ![image](https://github.com/NahalielG/NahalielG/assets/166444591/ee421252-079c-4d59-a3d1-dd62af267546)
+
+
 
