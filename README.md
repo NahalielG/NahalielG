@@ -29,3 +29,4 @@ Software Engineering 👨🏾‍💻
 Let's Connect! 🤝
 Thank you for visiting my portfolio. Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work.
 
+![image](https://github.com/NahalielG/NahalielG/assets/166444591/326ad95e-933c-45c4-ae84-cf71c77630c1)
